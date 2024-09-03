@@ -1,0 +1,114 @@
+.desktop {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .div {
+    width: 1440px;
+    height: 683px;
+    position: relative;
+}
+
+.desktop .info {
+    position: absolute;
+    font-family: "Authentic Sans", Helvetica;
+    color: #000000;
+    letter-spacing: 0;
+}
+
+.desktop .menu {
+    position: fixed;
+    font-family: "Authentic Sans", Helvetica;
+    bottom: 0;
+    text-align: center;
+    background-color: white;
+    width: 1440px;
+    height: 18px;
+    padding: 10px
+}
+
+.desktop .images {
+    position: absolute;
+    top: 90px;
+    left: 100px;
+    padding-bottom: 40px;
+}
+
+#home {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#home:hover {
+    color: blue;
+}
+
+#night {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#night:hover {
+    color: blue;
+}
+
+#berkeley {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#berkeley:hover {
+    color: blue;
+}
+
+#meta {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#meta:hover {
+    color: blue;
+}
+
+#ether {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#ether:hover {
+    color: blue;
+}
+
+#sf {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#sf:hover {
+    color: blue;
+}
+
+#hk {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#hk:hover {
+    color: blue;
+}

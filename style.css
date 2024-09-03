@@ -1,0 +1,153 @@
+body {
+    overflow: hidden;
+}
+
+head {
+    overflow-y: hidden;
+    overflow-x: hidden; 
+}
+
+.desktop {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .div {
+    width: 1440px;
+    height: 683px;
+    position: relative;
+}
+
+.desktop .youth {
+    position: absolute;
+    width: 50px;
+    bottom: -20px;
+}
+
+.desktop .eternity1 {
+    position: absolute;
+    width: 50px;
+    bottom: 185px;
+}
+
+.desktop .hell {
+    position: absolute;
+    width: 50px;
+    bottom: 380px;
+}
+
+.desktop .purpose {
+    position: absolute;
+    width: 50px;
+    top: -85px;
+}
+
+.desktop .bio {
+    position: absolute;
+    font-family: "Authentic Sans", Helvetica;
+    color: #000000;
+    letter-spacing: 0;
+    left: 70px;
+}
+
+.desktop .images {
+    position: absolute;
+    top: 80px;
+    left: 110px;
+    padding-bottom: 40px;
+}
+
+.desktop .menu {
+    position: fixed;
+    font-family: "Authentic Sans", Helvetica;
+    bottom: 0;
+    text-align: center;
+    width: 1440px;
+    height: 18px;
+    padding: 10px
+}
+
+.desktop .snoopy {
+    position: absolute;
+    right: 0px;
+    bottom: 30px;
+}
+
+#fortunes {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#fortunes:hover {
+    color: blue;
+}
+
+#night {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#night:hover {
+    color: blue;
+}
+
+#berkeley {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#berkeley:hover {
+    color: blue;
+}
+
+#meta {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#meta:hover {
+    color: blue;
+}
+
+#ether {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#ether:hover {
+    color: blue;
+}
+
+#sf {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#sf:hover {
+    color: blue;
+}
+
+#hk {
+    background-color: white;
+    font-family: "Authentic Sans", Helvetica;
+    border: none;
+    font-size: 16px;
+}
+
+#hk:hover {
+    color: blue;
+}
